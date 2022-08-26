@@ -18,7 +18,7 @@ Hope you like this project !!!
 Clone the project
 
 ```bash
-  git clone https://github.com/roypam/Crypto-Landing-Page-Project-V.git
+  git clone https://github.com/roypam/Law-Home-Page-Project-III.git
 ```
 Deployed Link - 
   [Law-HomePage](https://law-home-2022.netlify.app/)
